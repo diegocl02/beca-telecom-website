@@ -70,7 +70,7 @@ function App() {
 
       <Apply></Apply>
 
-
+      {/* Concact us */}
       <section className="page-section" id="contact">
         <div className="container">
           <div className="row">
@@ -93,7 +93,7 @@ function App() {
             <div className="col-md-4">
               <ul className="list-inline social-buttons">
                 <li className="list-inline-item">
-                  <a href="https://www.facebook.com/beca.telecom.pucp">
+                  <a href="#something">
                     <i className="fa fa-facebook-f"></i>
                   </a>
                 </li>

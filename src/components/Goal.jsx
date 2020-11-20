@@ -6,7 +6,7 @@ import { ProgressBar, Step } from "react-step-progress-bar";
 export default () => {
     const greenProgress = "#47cf73"
     const goal = 12000
-    const current = 600
+    const current = JSON.stringify(process.env.CURRENT_AMOUNT) || 0
     const amountFirstGoal = 6000
     const amountNeeded = goal - current
     const percetange = (current / goal) * 100
