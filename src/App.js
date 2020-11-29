@@ -93,7 +93,7 @@ function App() {
             <div className="col-md-4">
               <ul className="list-inline social-buttons">
                 <li className="list-inline-item">
-                  <a href="#something">
+                  <a href="https://www.facebook.com/beca.telecom.pucp">
                     <i className="fa fa-facebook-f"></i>
                   </a>
                 </li>
