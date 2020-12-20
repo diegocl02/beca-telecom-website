@@ -14,7 +14,7 @@ export default () => {
                         </h3>
 
                         <h3 className="text-muted m-auto">
-                            Estaremos enviando los detalles y requisitos para comienzos del mes de Diciembre 2020 :)
+                            Estaremos enviando los detalles y requisitos los primeros dias del mes de Enero 2021 :)
                         </h3>
                     </div>
 
