@@ -11,10 +11,14 @@ export default () => {
                         <h3 className="text-muted m-auto">
                             Se realizará una convocatoria donde los alumnos interesados podrán presentarse exponiendo su caso para que sea estudiado por un comité evaluador que tendrá la responsabilidad de definir a los beneficiarios de la beca.
                             Este comité evaluador estará integrado por 2 egresados, el presidente de AITEL y, en la medida de lo posible, un profesor o autoridad de la universidad.
-                        </h3>
+                        </h3> <br />
 
                         <h3 className="text-muted m-auto">
-                            Estaremos enviando los detalles y requisitos para comienzos del mes de Diciembre 2020 :)
+                            Todos los detalles de como postular en el siguiente enlace: <a href="https://docs.google.com/document/d/1hR3R3_nSsZPMacS2yqjTL9chEb7rJQ3BqO1jDpIoKSA/edit?usp=sharing"> Requisitos </a>
+                        </h3><br />
+
+                        <h3 className="text-muted m-auto">
+                            Fecha límite de postulación: <important>20 de Marzo de 2021</important>
                         </h3>
                     </div>
 
